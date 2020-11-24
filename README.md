@@ -10,5 +10,4 @@ will update version 0.0.2 when complete. <it has major ui and performance improv
 
  * [matplotlib](https://matplotlib.org/) 
  * [pandas](https://pandas.pydata.org/) 
- * [csv](https://docs.python.org/3/library/csv.html)  
- * [tkinter](https://docs.python.org/3/library/tkinter.html)
+
