@@ -6,9 +6,9 @@ will update version 0.0.2 when complete. <it has major ui and performance improv
  Just clone the project and run grapher.py file 😊 **it's that simple**
  ## Dependencies ##
  
- MArkup : > CSV & Tkinter comes bundled with python so relax 😊
+ > CSV & Tkinter comes bundled with python so relax 😊
 
-Markup : * [matplotlib](https://matplotlib.org/) 
-         * [pandas](https://pandas.pydata.org/) 
-         * [csv](https://docs.python.org/3/library/csv.html)  
-         * [tkinter](https://docs.python.org/3/library/tkinter.html)
+ * [matplotlib](https://matplotlib.org/) 
+ * [pandas](https://pandas.pydata.org/) 
+ * [csv](https://docs.python.org/3/library/csv.html)  
+ * [tkinter](https://docs.python.org/3/library/tkinter.html)
